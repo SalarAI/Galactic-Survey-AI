@@ -1,0 +1,105 @@
+# ==================================
+# Backend Framework
+# ==================================
+
+fastapi
+uvicorn[standard]
+
+# Telegram Mini App / Bot
+aiogram
+
+# Environment & Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+
+# ==================================
+# Database
+# ==================================
+
+sqlalchemy
+alembic
+
+
+# ==================================
+# Data Science & Machine Learning
+# ==================================
+
+numpy
+pandas
+scipy
+
+scikit-learn
+xgboost
+
+# Deep Learning (Future AI Models)
+torch
+torchvision
+
+
+# ==================================
+# Game Engine & Procedural Generation
+# ==================================
+
+noise
+pygame
+
+
+# ==================================
+# API Communication
+# ==================================
+
+httpx
+requests
+
+
+# ==================================
+# Data Validation & Serialization
+# ==================================
+
+python-multipart
+orjson
+
+
+# ==================================
+# Testing
+# ==================================
+
+pytest
+pytest-cov
+
+
+# ==================================
+# Code Quality
+# ==================================
+
+black
+flake8
+mypy
+isort
+
+
+# ==================================
+# Development Tools
+# ==================================
+
+jupyter
+ipykernel
+
+
+# ==================================
+# Visualization & Scientific Analysis
+# ==================================
+
+matplotlib
+plotly
+
+
+# ==================================
+# Security
+# ==================================
+
+passlib
+bcrypt
+python-jose
