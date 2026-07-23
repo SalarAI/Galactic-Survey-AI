@@ -6,6 +6,18 @@
 
 An AI-Powered Space Exploration Game Combining Game Development, Artificial Intelligence, and Astrophysics
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-purple)
+![Astrophysics](https://img.shields.io/badge/Domain-Astrophysics-black)
+![Game](https://img.shields.io/badge/Type-Space%20Game-red)
+![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-blue)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+
+</p>
 ⸻
 
 🌌 Overview
