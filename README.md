@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="assets/images/banner.jpng" alt="Galactic Survey AI" width="900">
+  <img src="assets/images/banner.jpeg" alt="Galactic Survey AI Banner" width="100%">
 </p>
-
-<h1 align="center">🚀 Galactic Survey AI</h1>
-
-<p align="center">
-Explore. Analyze. Survive.
-</p>
-
 
 🚀 Galactic Survey AI
 
